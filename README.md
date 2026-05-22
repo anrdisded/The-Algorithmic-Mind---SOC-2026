@@ -1,0 +1,1 @@
+# The-Algorithmic-Mind---SOC-2026
