@@ -49,18 +49,22 @@ Students are expected to:
 ### Time Complexity
 
 - Time and Space Complexity (Striver)
-  https://www.youtube.com/results?search_query=striver+time+and+space+complexity
-
+  https://youtu.be/FPu9Uld7W-E?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz
+  
 ### Binary Search
 
 - Binary Search Playlist (Striver)
-  https://www.youtube.com/results?search_query=striver+binary+search+playlist
-
+  https://www.youtube.com/watch?v=MHf6awe89xw&list=PLF6ChxadzFf8vjafLIxxbKUfarW4V4IOh&pp=iAQB
+  
 ### Prefix Sums
 
 - USACO Guide: Prefix Sums
   https://usaco.guide/silver/prefix-sums
 
+### STL (C++)
+
+- Complete STL (Striver)
+  https://youtu.be/RRVYpIET_RU?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz
 ---
 
 ## CSES Practice
@@ -109,7 +113,7 @@ This is the **Competitive Programmer's Handbook** by Antti Laaksonen — and the
 
 ---
 
-### 💡 Tips
+### Tips
 - **Register at** https://cses.fi to submit and track your progress
 - Problems are roughly ordered by difficulty — start from #1 and go in order
 - These problems directly mirror the examples used in the Handbook chapters, so reading the book chapter → then solving the problems is the ideal workflow
@@ -157,4 +161,4 @@ https://www.codechef.com/practice
 
 Consistent practice over eight weeks will build a strong foundation for interviews, competitive programming, and future problem-solving challenges.
 
-Happy Coding! 🚀
+Happy Coding! 
