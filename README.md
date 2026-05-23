@@ -72,10 +72,8 @@ By the end of this week, you should be comfortable with:
 
 ## CSES Practice
 
-- Missing Number
 - Repetitions
 - Increasing Array
-- Weird Algorithm
 - Coin Piles
 - Static Range Sum Queries
 - Subarray Sums I
