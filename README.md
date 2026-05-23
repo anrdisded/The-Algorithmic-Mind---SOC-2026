@@ -8,17 +8,6 @@ The goal of this project is not just solving problems, but learning how to ident
 
 #  Repository Structure
 
-```text
-Week-1/
-Week-2/
-Week-3/
-Week-4/
-Week-5/
-Week-6/
-Week-7/
-Week-8/
-```
-
 Each week contains:
 
 - Learning resources
@@ -32,7 +21,7 @@ Students are expected to:
 1. Complete the assigned learning resources.
 2. Watch the recommended videos.
 3. Solve the submission questions.
-4. Upload solutions in the corresponding week's folder.
+4. Upload solutions in the corresponding week's folder(The submitting file's name should be your name).
 5. Attempt practice problems whenever possible.
 
 ---
@@ -52,7 +41,6 @@ By the end of this week, you should be comfortable with:
 - Binary Search on Answers
 - Solving beginner-level CSES problems independently
 
----
 
 ## Learning Resources
 
