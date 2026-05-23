@@ -47,8 +47,7 @@ By the end of this week, you should be comfortable with:
 ### Primary Roadmap
 
 - Striver A2Z DSA Sheet  
-  https://takeuforward.org/strivers-a2z-dsa-course/
-
+  https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 ### Time Complexity
 
 - Time and Space Complexity (Striver)
