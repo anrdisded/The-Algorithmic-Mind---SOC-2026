@@ -1,4 +1,4 @@
-# The-Algorithmic-Mind---SOC-2026
+# The-Algorithmic-Mind--SOC-2026
 
 This repository will serve as the central workspace for all learning materials, weekly tasks, problem sets, and solution submissions.
 
