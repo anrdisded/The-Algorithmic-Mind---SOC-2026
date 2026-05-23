@@ -2,7 +2,7 @@
 
 This repository will serve as the central workspace for all learning materials, weekly tasks, problem sets, and solution submissions.
 
-The goal of this project is not just solving problems, but learning how to identify patterns, choose appropriate algorithms and data structures, and build strong problem-solving intuition for coding interviews and competitive programming.
+The goal of this project is not just solving problems, but learning how to identify patterns, choose appropriate algorithms and data structures, and build strong problem-solving intuition for competitive programming.
 
 ---
 
