@@ -112,7 +112,7 @@ The best companion problem set for the **Competitive Programmer's Handbook** by 
 
 ### Tips
 - **Register at** https://cses.fi to submit and track your progress
-- Problems are roughly ordered by difficulty — start from #1 and go in order
+- Problems are roughly ordered by difficulty — start from 1 and go in order
 - These problems directly mirror the examples used in the Handbook chapters, so reading the book chapter → then solving the problems is the ideal workflow
 
 ---
