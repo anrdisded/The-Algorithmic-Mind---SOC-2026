@@ -80,15 +80,6 @@ https://cses.fi/problemset/
 
 ---
 
-## LeetCode Practice
-
-- 704. Binary Search
-- 34. Find First and Last Position in Sorted Array
-- 875. Koko Eating Bananas
-- 153. Find Minimum in Rotated Sorted Array
-
----
-
 ## Submission
 
 Upload solutions inside:
@@ -97,44 +88,21 @@ Upload solutions inside:
 Week-1/
 ```
 
-This is the **Competitive Programmer's Handbook** by Antti Laaksonen — and the best companion problem set for it is **CSES (cses.fi)**, which was built alongside this exact book. Here are 12 problems mapped to each topic:
+This is the **Competitive Programmer's Handbook** by Antti Laaksonen — and the best companion problem set for it is **CSES (cses.fi)**, which was built alongside this exact book. Here are 12 problems based on the first 4 chapters:
 
 ---
-
-## 📘 Chapter 1 — Introduction (I/O, Numbers, Math)
 
 | # | Problem | Link |
 |---|---------|------|
 | 1 | **Weird Algorithm** (loops, basic I/O) | https://cses.fi/problemset/task/1068 |
 | 2 | **Missing Number** (working with numbers) | https://cses.fi/problemset/task/1083 |
 | 3 | **Number Spiral** (math/patterns) | https://cses.fi/problemset/task/1071 |
-
----
-
-## ⏱️ Chapter 2 — Time Complexity & Maximum Subarray
-
-| # | Problem | Link |
-|---|---------|------|
 | 4 | **Maximum Subarray Sum** (Kadane's algorithm) | https://cses.fi/problemset/task/1643 |
 | 5 | **Subarray Sums I** (prefix sums, O(n)) | https://cses.fi/problemset/task/1660 |
-
----
-
-## 🔃 Chapter 3 — Sorting & Binary Search
-
-| # | Problem | Link |
-|---|---------|------|
 | 6 | **Distinct Numbers** (sorting basics) | https://cses.fi/problemset/task/1621 |
 | 7 | **Apartments** (sorting + two pointers) | https://cses.fi/problemset/task/1084 |
 | 8 | **Ferris Wheel** (greedy + sorting) | https://cses.fi/problemset/task/1090 |
 | 9 | **Concert Tickets** (binary search / multiset) | https://cses.fi/problemset/task/1091 |
-
----
-
-## 🗂️ Chapter 4 — Data Structures
-
-| # | Problem | Link |
-|---|---------|------|
 | 10 | **Playlist** (set — longest distinct subarray) | https://cses.fi/problemset/task/1141 |
 | 11 | **Towers** (map/multiset usage) | https://cses.fi/problemset/task/1073 |
 | 12 | **Traffic Lights** (set with gaps) | https://cses.fi/problemset/task/1163 |
