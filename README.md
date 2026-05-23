@@ -39,6 +39,21 @@ Students are expected to:
 
 # Week 1 — Complexity Analysis, Prefix Sums & Binary Search
 
+## Objective
+
+This week focuses on building the foundation required for every future topic in DSA. Before solving complex problems, it is important to understand how to analyze algorithms, use C++ STL efficiently, and recognize common problem-solving techniques such as prefix sums and binary search.
+
+By the end of this week, you should be comfortable with:
+
+- Time and Space Complexity analysis
+- Using commonly used STL containers and functions
+- Prefix Sum technique
+- Standard Binary Search
+- Binary Search on Answers
+- Solving beginner-level CSES problems independently
+
+---
+
 ## Learning Resources
 
 ### Primary Roadmap
