@@ -93,7 +93,7 @@ Upload solutions inside:
 Week-1/
 ```
 
-This is the **Competitive Programmer's Handbook** by Antti Laaksonen — and the best companion problem set for it is **CSES (cses.fi)**, which was built alongside this exact book. Here are 12 problems based on the first 4 chapters:
+The best companion problem set for the **Competitive Programmer's Handbook** by Antti Laaksonen is **CSES (cses.fi)**, which was built alongside this exact book. Here are 12 problems based on the first 4 chapters:
 
 ---
 
